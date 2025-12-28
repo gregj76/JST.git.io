@@ -53,13 +53,13 @@
     {
       "id": 1,
       "name": "Angkor Wat, Cambodia",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/06/09/19/56/ta-prohm-2388126_640.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/03/20/03/31/visiting-4949379_1280.jpg",
       "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
       "id": 2,
       "name": "Taj Mahal, India",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/06/05/21/09/cultural-tourism-5264542_640.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/01/07/18/37/india-1961216_1280.jpg",
       "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
   ],
@@ -67,13 +67,13 @@
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpCLkrcIpmh76zPxzW4wk8rcxWYCDMop3yXYygkwdlg&s",
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/07/21/07/05/island-7335511_1280.jpg",
       "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "https://images.unsplash.com/photo-1596573677494-accc8fbe89e8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29wYWNhYmFuYSUyMGJlYWNofGVufDB8fDB8fHww",
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/05/22/23/54/rio-de-janeiro-vacation-4222904_1280.jpg",
       "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
   ]
